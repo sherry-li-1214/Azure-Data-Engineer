@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/102694188/93cc944b-f57b-45f3-9e89-dc1e6bef1ee8/d621df65-d676-4658-b2f9-43e8ad3f871c/_apis/work/boardbadge/c292fe81-c073-48de-b0fa-985df3aefa21)](https://dev.azure.com/102694188/93cc944b-f57b-45f3-9e89-dc1e6bef1ee8/_boards/board/t/d621df65-d676-4658-b2f9-43e8ad3f871c/Microsoft.RequirementCategory)
 # DP-203T00: Data Engineering on Azure
 
 Welcome to the course DP-203: Data Engineering on Azure. To support this course, we will need to make updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
